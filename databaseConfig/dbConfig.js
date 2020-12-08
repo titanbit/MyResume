@@ -1,3 +1,4 @@
 module.exports = {
-  DBURL: "mongodb://localhost:27017/myResume",
+  DBURL:
+    "mongodb+srv://myResume:myResume@myresume.litgh.mongodb.net/MyResume?retryWrites=true&w=majority",
 };
